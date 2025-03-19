@@ -1,4 +1,4 @@
- MyFinance - Personal Finance Tracker
+📌 MyFinance - Personal Finance Tracker
 A simple and efficient finance tracking app built with Flutter. Manage your expenses, track transactions, and stay on top of your finances! 💰📊
 
 🚀 Features
@@ -53,5 +53,8 @@ flutter pub add flutter_riverpod hive hive_flutter uuid
 🔧 Contributing
 Want to improve this project? Feel free to fork the repo and submit a pull request!
 
+🔗 GitHub Repo: MyFinance
+
 📜 License
-This project is open-source. Feel free to use and modify as needed.
+This project is open-source. Feel free to use and modify it as needed.
+
